@@ -1,0 +1,4 @@
+Hello, world!
+This is areal world document editor example.
+	Intended text after a tab space
+[Image: picture.jpg]
